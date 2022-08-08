@@ -1,0 +1,16 @@
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.exe.config
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.exe
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.pdb
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.AssemblyReference.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.CoreCompileInputs.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.exe
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.exe.config
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\bin\Debug\FuncoesDaString.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\FuncoesDaString\FuncoesDaString\obj\Debug\FuncoesDaString.pdb

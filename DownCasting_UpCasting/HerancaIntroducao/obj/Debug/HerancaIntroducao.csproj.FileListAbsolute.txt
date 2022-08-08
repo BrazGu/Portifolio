@@ -1,0 +1,16 @@
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\bin\Debug\HerancaIntroducao.exe.config
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\bin\Debug\HerancaIntroducao.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\bin\Debug\HerancaIntroducao.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\obj\Debug\HerancaIntroducao.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\HerancaIntroducao\HerancaIntroducao\obj\Debug\HerancaIntroducao.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\bin\Debug\HerancaIntroducao.exe.config
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\bin\Debug\HerancaIntroducao.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\bin\Debug\HerancaIntroducao.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\obj\Debug\HerancaIntroducao.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\obj\Debug\HerancaIntroducao.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção10\DownCasting_UpCasting\HerancaIntroducao\obj\Debug\HerancaIntroducao.pdb

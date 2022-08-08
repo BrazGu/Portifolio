@@ -1,0 +1,8 @@
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\bin\Debug\TimeSpan_PropriedadesOperacoes.exe.config
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\bin\Debug\TimeSpan_PropriedadesOperacoes.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\bin\Debug\TimeSpan_PropriedadesOperacoes.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\obj\Debug\TimeSpan_PropriedadesOperacoes.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\obj\Debug\TimeSpan_PropriedadesOperacoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\obj\Debug\TimeSpan_PropriedadesOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\obj\Debug\TimeSpan_PropriedadesOperacoes.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\TimeSpan_PropriedadesOperacoes\TimeSpan_PropriedadesOperacoes\obj\Debug\TimeSpan_PropriedadesOperacoes.pdb

@@ -1,0 +1,8 @@
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\brazg\OneDrive - Fundação Salvador Arena\Portfólio\Seção11\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

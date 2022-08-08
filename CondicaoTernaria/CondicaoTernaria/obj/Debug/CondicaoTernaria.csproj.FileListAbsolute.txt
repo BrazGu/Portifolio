@@ -1,0 +1,8 @@
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\bin\Debug\CondicaoTernaria.exe.config
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\bin\Debug\CondicaoTernaria.exe
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\bin\Debug\CondicaoTernaria.pdb
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\obj\Debug\CondicaoTernaria.csproj.AssemblyReference.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\obj\Debug\CondicaoTernaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\obj\Debug\CondicaoTernaria.csproj.CoreCompileInputs.cache
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\obj\Debug\CondicaoTernaria.exe
+C:\Users\gustavoss\OneDrive - Toledo do Brasil\Área de Trabalho\Braz\C#\Portifólio\CondicaoTernaria\CondicaoTernaria\obj\Debug\CondicaoTernaria.pdb
